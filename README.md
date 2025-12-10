@@ -11,4 +11,4 @@
 
 * See below ⬇️
 
-![utkuozdemir's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkuozdemir&show_icons=true&theme=transparent)
+![utkuozdemir's GitHub stats](https://gh-stats.public.homelab.utkuozdemir.org/api?username=utkuozdemir&show_icons=true&theme=transparent)
