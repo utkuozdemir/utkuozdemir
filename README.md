@@ -5,7 +5,7 @@
 
 ### Talks
 * [Reproducible Builds at Sidero Labs: Tools and Techniques - All Systems Go!](https://www.youtube.com/watch?v=8tOezKTJvok)
-* [How Talos Makes It Easier To Build a Cluster Management Platform (no recording)](https://luma.com/mk0ik8dh?tk=oCZI2c)
+* [How Talos Makes It Easier To Build a Cluster Management Platform (no recording)](https://luma.com/mk0ik8dh)
 
 ### Open Source
 
