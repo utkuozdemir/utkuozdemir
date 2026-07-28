@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Utku &#214;zdemir's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4037, Total Commits  : 3100, Total PRs: 1317, Total Issues: 285, Contributed to (last year): 32</desc>
+        <title id="titleId">Utku &#214;zdemir&#39;s GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 4040, Total Commits  : 3107, Total PRs: 1322, Total Issues: 285, Contributed to (last year): 32</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 6.87000394907767;
+        stroke-dashoffset: 6.845605685148403;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Utku &#214;zdemir's GitHub Stats</text>
+      >Utku &#214;zdemir&#39;s GitHub Stats</text>
     </g>
       </g>
     
