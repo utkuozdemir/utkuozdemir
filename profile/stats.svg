@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Utku &#214;zdemir&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4130, Total Commits  : 3557, Total PRs: 1576, Total Issues: 373, Contributed to (last year): 41</desc>
+        <desc id="descId">Total Stars Earned: 4130, Total Commits  : 3567, Total PRs: 1586, Total Issues: 374, Contributed to (last year): 41</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 5.488476853960161;
+        stroke-dashoffset: 5.463874742166918;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >373</text>
+      >374</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
